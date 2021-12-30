@@ -6,4 +6,4 @@ Next step is go inside my_portfolio folder and open a new window in cmd/terminal
 
 Then run the project by typing thenext command : npm start ( if you use npm).
 
-![Screenshot](d1.jpg)
+![Screenshot](s1.png)
