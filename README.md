@@ -1,4 +1,4 @@
-# Instalation and launching
+# Installation and launching
 
 First off, you'll have to install npm or yarn package managers  in order to lauch your react project
 
